@@ -1,0 +1,610 @@
+[
+  {
+    "figure": "4",
+    "path": "DATA/FIG_4/R01/R01_STATISTICS_v1.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/processed/R01_STATISTICS_v1.json",
+    "sha256": "eb3aeedf8d6c5e1ffb38319e576051f0db2edbf9a4969b7c537737f1f2d66ce2",
+    "size_bytes": 23298
+  },
+  {
+    "figure": "4",
+    "path": "DATA/FIG_4/R01/R01_MASTER_RESULTS_v1.csv",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/processed/R01_MASTER_RESULTS_v1.csv",
+    "sha256": "8ba55c0b2ac0c21669b66ed1a7bf53a16cc25e2b571ba853d1ab5951157da1de",
+    "size_bytes": 132918
+  },
+  {
+    "figure": "7",
+    "path": "DATA/FIG_7/R01/P09_B3_A1_S1_seed20260921_r0_result.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/runs/P09_B3_A1_S1_seed20260921_r0_result.json",
+    "sha256": "068b10512f2d3883a0b58341cf6c65ceb6a7c4986884740344cf8f9d7c228f33",
+    "size_bytes": 5611
+  },
+  {
+    "figure": "7",
+    "path": "DATA/FIG_7/R01/P09_B3_A1_S1_seed20260926_r0_result.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/runs/P09_B3_A1_S1_seed20260926_r0_result.json",
+    "sha256": "981ac9cc94dbe5e3df2e9505347d1c5be38d37d686a03e3fb0ad2e8bba23a750",
+    "size_bytes": 5610
+  },
+  {
+    "figure": "7",
+    "path": "DATA/FIG_7/R01/P09_B3_A1_S1_seed20260927_r0_result.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/runs/P09_B3_A1_S1_seed20260927_r0_result.json",
+    "sha256": "2455ad665aab0fe48f6c718a0fab637cc183cffefd103c1772684f35ae1bb27c",
+    "size_bytes": 5610
+  },
+  {
+    "figure": "7",
+    "path": "DATA/FIG_7/R01/P09_B3_A1_S1_seed20260928_r0_result.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/runs/P09_B3_A1_S1_seed20260928_r0_result.json",
+    "sha256": "e696a6afdb00b31803ce2a4de2cae354e5529e6d40cce6e6ca46fffc2951d71d",
+    "size_bytes": 5611
+  },
+  {
+    "figure": "7",
+    "path": "DATA/FIG_7/R01/P09_B3_A1_S1_seed20260920_r0_result.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/runs/P09_B3_A1_S1_seed20260920_r0_result.json",
+    "sha256": "af007234d90301c9ae8e5bf8aff8531d86896c50d213c271559c2455430cb3ac",
+    "size_bytes": 5606
+  },
+  {
+    "figure": "3",
+    "path": "DATA/FIG_3/R01/P09_B0_A6_S3_seed20260919_r0_result.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/runs/P09_B0_A6_S3_seed20260919_r0_result.json",
+    "sha256": "a3a242642ab7214dd71c1f44176a5c76a2addf4833cea3134d3fe14c6d746145",
+    "size_bytes": 14655
+  },
+  {
+    "figure": "7",
+    "path": "DATA/FIG_7/R01/P09_B3_A1_S1_seed20260922_r0_result.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/runs/P09_B3_A1_S1_seed20260922_r0_result.json",
+    "sha256": "8f5e020a9f641ff6b8a5fa53f3fc943d6921958461739580d9b68f4b056fc150",
+    "size_bytes": 5606
+  },
+  {
+    "figure": "7",
+    "path": "DATA/FIG_7/R01/P09_B3_A1_S1_seed20260925_r0_result.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/runs/P09_B3_A1_S1_seed20260925_r0_result.json",
+    "sha256": "c6ee8e66c024884751a3a19b7e6fe987cf763d16e13b702125df22f4805a5888",
+    "size_bytes": 5608
+  },
+  {
+    "figure": "7",
+    "path": "DATA/FIG_7/R01/P09_B3_A1_S1_seed20260924_r0_result.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/runs/P09_B3_A1_S1_seed20260924_r0_result.json",
+    "sha256": "f512d675796bd7610643a7249d9ace85f356677c716c8c74a2cbf3e7493dfcbf",
+    "size_bytes": 5611
+  },
+  {
+    "figure": "7",
+    "path": "DATA/FIG_7/R01/P09_B3_A1_S1_seed20260923_r0_result.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/runs/P09_B3_A1_S1_seed20260923_r0_result.json",
+    "sha256": "76689a2605e1a6c3ab0234c3908180dca572283d87dfec5753896c5ceb33da66",
+    "size_bytes": 5610
+  },
+  {
+    "figure": "3",
+    "path": "DATA/FIG_3/R01/P09_B0_A6_S3_seed20260926_r0_result.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/runs/P09_B0_A6_S3_seed20260926_r0_result.json",
+    "sha256": "0e63bce9df27f74321cb91a3d2bf34dae1778a7b30f44154e5152f82ef1f3c49",
+    "size_bytes": 14627
+  },
+  {
+    "figure": "3",
+    "path": "DATA/FIG_3/R01/P09_B0_A6_S3_seed20260921_r0_result.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/runs/P09_B0_A6_S3_seed20260921_r0_result.json",
+    "sha256": "a2e6af0c1993eb5d9436e55730fd4d4266bafb2f7f477833e517746b519fdd9d",
+    "size_bytes": 14650
+  },
+  {
+    "figure": "3",
+    "path": "DATA/FIG_3/R01/P09_B0_A6_S3_seed20260920_r0_result.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/runs/P09_B0_A6_S3_seed20260920_r0_result.json",
+    "sha256": "af01f24d288ebcb7b76d2aa84221cf741b497e1ef8f7967a2a6f94d071d3b9d8",
+    "size_bytes": 14603
+  },
+  {
+    "figure": "7",
+    "path": "DATA/FIG_7/R01/P09_B3_A1_S1_seed20260919_r0_result.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/runs/P09_B3_A1_S1_seed20260919_r0_result.json",
+    "sha256": "48ee20eae246716b91eea3d5146b3e5086f2466d4be9199543fdc5f6518261da",
+    "size_bytes": 5612
+  },
+  {
+    "figure": "3",
+    "path": "DATA/FIG_3/R01/P09_B0_A6_S3_seed20260928_r0_result.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/runs/P09_B0_A6_S3_seed20260928_r0_result.json",
+    "sha256": "395b577b27a158d256f963dd1e6ec7f3bd25ad5663eaba504044a500e53df48d",
+    "size_bytes": 14729
+  },
+  {
+    "figure": "3",
+    "path": "DATA/FIG_3/R01/P09_B0_A6_S3_seed20260927_r0_result.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/runs/P09_B0_A6_S3_seed20260927_r0_result.json",
+    "sha256": "9b4290a89298963c9b839e2298df8f622b8b22a905aff4123f0a8b9a87a5d925",
+    "size_bytes": 14663
+  },
+  {
+    "figure": "3",
+    "path": "DATA/FIG_3/R01/P09_B0_A6_S3_seed20260925_r0_result.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/runs/P09_B0_A6_S3_seed20260925_r0_result.json",
+    "sha256": "fe982a915702c9bc4891b6f2d16b0fd97821262e3a73f0505324ac7fdcf0f348",
+    "size_bytes": 14663
+  },
+  {
+    "figure": "3",
+    "path": "DATA/FIG_3/R01/P09_B0_A6_S3_seed20260922_r0_result.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/runs/P09_B0_A6_S3_seed20260922_r0_result.json",
+    "sha256": "b7613ca40807c4f3e7389331f23a014737cc7af8d8c7a676386afe13c7b244c5",
+    "size_bytes": 14640
+  },
+  {
+    "figure": "3",
+    "path": "DATA/FIG_3/R01/P09_B0_A6_S3_seed20260923_r0_result.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/runs/P09_B0_A6_S3_seed20260923_r0_result.json",
+    "sha256": "83286b315929fa56858c2e54e1e19e07330b0c0bc3c48ad1af881d300d9d68d4",
+    "size_bytes": 14640
+  },
+  {
+    "figure": "3",
+    "path": "DATA/FIG_3/R01/P09_B0_A6_S3_seed20260924_r0_result.json",
+    "source_archive": "TRACES_DT_R01_RECOVERED_FOR_AUDIT(1).zip",
+    "source_member": "TRACES_DT_RECOVERED_HISTORICAL/R01/phases/R01_revision_multiseed/runs/P09_B0_A6_S3_seed20260924_r0_result.json",
+    "sha256": "8458cdd8eae0423827c2337e77fb06b8be09f574267f6a6e9fd459cade4a00e2",
+    "size_bytes": 14621
+  },
+  {
+    "figure": "5",
+    "path": "DATA/FIG_5/HISTORY/00143_P13_FABRIC_TIMING.json",
+    "source_archive": "TRACES_DT_HISTORICAL_TARGETED.zip",
+    "source_member": "evidence/00143_P13_FABRIC_TIMING.json",
+    "sha256": "c4c1e6d016f5df7bbb8bf464816585c987b6731e0dfc4e663618cc24087ee23d",
+    "size_bytes": 469
+  },
+  {
+    "figure": "4",
+    "path": "DATA/FIG_4/HISTORY/00280_R01A_PSV_EVENTS_v1.csv",
+    "source_archive": "TRACES_DT_HISTORICAL_TARGETED.zip",
+    "source_member": "evidence/00280_R01A_PSV_EVENTS_v1.csv",
+    "sha256": "0a56751871a674b97a2cf4a13db18f0219140e7f9084d9eba1deb49858a7ddb2",
+    "size_bytes": 613
+  },
+  {
+    "figure": "5",
+    "path": "DATA/FIG_5/HISTORY/11506_fig5_latency_scalability.csv",
+    "source_archive": "TRACES_DT_HISTORICAL_TARGETED.zip",
+    "source_member": "evidence/11506_fig5_latency_scalability.csv",
+    "sha256": "1ed837c18c5e03822c0c3f6c0747c2ad55f67fa153aea5065b8c5b6c6ef5d3bd",
+    "size_bytes": 1730
+  },
+  {
+    "figure": "5",
+    "path": "DATA/FIG_5/HISTORY/00150_P14_FABRIC_RESILIENCE_SUMMARY.json",
+    "source_archive": "TRACES_DT_HISTORICAL_TARGETED.zip",
+    "source_member": "evidence/00150_P14_FABRIC_RESILIENCE_SUMMARY.json",
+    "sha256": "4b88694a4204e05638bb1a446ed84c9568863c86db544a2304ecad4742d18b7e",
+    "size_bytes": 2800
+  },
+  {
+    "figure": "5",
+    "path": "DATA/FIG_5/HISTORY/06425_R07A_B3_FABRIC_RESULTS_v1.csv",
+    "source_archive": "TRACES_DT_HISTORICAL_TARGETED.zip",
+    "source_member": "evidence/06425_R07A_B3_FABRIC_RESULTS_v1.csv",
+    "sha256": "5d60e8c078d9d110d6148b9f1351c485998227edc1c89e074ff5a84ebd5b0af8",
+    "size_bytes": 2927
+  },
+  {
+    "figure": "6",
+    "path": "DATA/FIG_6/HISTORY/11393_ipfs_benchmark_summary.csv",
+    "source_archive": "TRACES_DT_HISTORICAL_TARGETED.zip",
+    "source_member": "evidence/11393_ipfs_benchmark_summary.csv",
+    "sha256": "48a91f1a58c9f74f6a927645c872ece3134f8e65156f04cee9485b01dae9975a",
+    "size_bytes": 1007
+  },
+  {
+    "figure": "7",
+    "path": "DATA/FIG_7/HISTORY/00894_R01_B3_A1_S1_seed20260924_r0_envelope.json",
+    "source_archive": "TRACES_DT_HISTORICAL_TARGETED.zip",
+    "source_member": "evidence/00894_R01_B3_A1_S1_seed20260924_r0_envelope.json",
+    "sha256": "248a8bcaffcf24f7fdbdcf69126c71ac34f3282fae983c3ae64b2bcced3be72c",
+    "size_bytes": 1475
+  },
+  {
+    "figure": "7",
+    "path": "DATA/FIG_7/HISTORY/00963_R01_B3_A1_S1_seed20260920_r0_envelope.json",
+    "source_archive": "TRACES_DT_HISTORICAL_TARGETED.zip",
+    "source_member": "evidence/00963_R01_B3_A1_S1_seed20260920_r0_envelope.json",
+    "sha256": "183d4e49e0408002182a667a9ed5fdff55e7fb7cfd29ca83b9deda72974549be",
+    "size_bytes": 1475
+  },
+  {
+    "figure": "7",
+    "path": "DATA/FIG_7/HISTORY/01606_R01_B3_A1_S1_seed20260925_r0_envelope.json",
+    "source_archive": "TRACES_DT_HISTORICAL_TARGETED.zip",
+    "source_member": "evidence/01606_R01_B3_A1_S1_seed20260925_r0_envelope.json",
+    "sha256": "26252c2755ecdb58373b8dd1fa888a47697a6c9aa5253269feea169d6ad23b35",
+    "size_bytes": 1475
+  },
+  {
+    "figure": "7",
+    "path": "DATA/FIG_7/HISTORY/01958_R01_B3_A1_S1_seed20260921_r0_envelope.json",
+    "source_archive": "TRACES_DT_HISTORICAL_TARGETED.zip",
+    "source_member": "evidence/01958_R01_B3_A1_S1_seed20260921_r0_envelope.json",
+    "sha256": "1be86de52b6500976a549ed656ccd65e5e3249051b0a94d3c4a5b4eb00300632",
+    "size_bytes": 1475
+  },
+  {
+    "figure": "7",
+    "path": "DATA/FIG_7/HISTORY/02317_R01_B3_A1_S1_seed20260926_r0_envelope.json",
+    "source_archive": "TRACES_DT_HISTORICAL_TARGETED.zip",
+    "source_member": "evidence/02317_R01_B3_A1_S1_seed20260926_r0_envelope.json",
+    "sha256": "2dc42bf55be3a3d2e18526637cce01a69437997bcbfc5a1ad8a337a6ad513708",
+    "size_bytes": 1475
+  },
+  {
+    "figure": "7",
+    "path": "DATA/FIG_7/HISTORY/03061_R01_B3_A1_S1_seed20260922_r0_envelope.json",
+    "source_archive": "TRACES_DT_HISTORICAL_TARGETED.zip",
+    "source_member": "evidence/03061_R01_B3_A1_S1_seed20260922_r0_envelope.json",
+    "sha256": "d2ba55e012e97ef398b94706faf5c7ebcf4589765771ad9804c448436ce074f8",
+    "size_bytes": 1475
+  },
+  {
+    "figure": "7",
+    "path": "DATA/FIG_7/HISTORY/03341_R01_B3_A1_S1_seed20260927_r0_envelope.json",
+    "source_archive": "TRACES_DT_HISTORICAL_TARGETED.zip",
+    "source_member": "evidence/03341_R01_B3_A1_S1_seed20260927_r0_envelope.json",
+    "sha256": "4f387391b2597d466b54eb8115ba6155ec4cb948ed05f657d72510062a68f90e",
+    "size_bytes": 1475
+  },
+  {
+    "figure": "7",
+    "path": "DATA/FIG_7/HISTORY/03345_R01_B3_A1_S1_seed20260919_r0_envelope.json",
+    "source_archive": "TRACES_DT_HISTORICAL_TARGETED.zip",
+    "source_member": "evidence/03345_R01_B3_A1_S1_seed20260919_r0_envelope.json",
+    "sha256": "670b425a5126ef5affda83e95c31cdb74f41cb83d0f09788d2f309f64e5a8a04",
+    "size_bytes": 1475
+  },
+  {
+    "figure": "7",
+    "path": "DATA/FIG_7/HISTORY/03657_R01_B3_A1_S1_seed20260928_r0_envelope.json",
+    "source_archive": "TRACES_DT_HISTORICAL_TARGETED.zip",
+    "source_member": "evidence/03657_R01_B3_A1_S1_seed20260928_r0_envelope.json",
+    "sha256": "a88e60617132ab52bffdc9105916c0974611b30bd89f9d09f4471581ce43b132",
+    "size_bytes": 1475
+  },
+  {
+    "figure": "7",
+    "path": "DATA/FIG_7/HISTORY/03932_R01_B3_A1_S1_seed20260923_r0_envelope.json",
+    "source_archive": "TRACES_DT_HISTORICAL_TARGETED.zip",
+    "source_member": "evidence/03932_R01_B3_A1_S1_seed20260923_r0_envelope.json",
+    "sha256": "775bc28f34b9c7b72a6261d6a6169b5395983166653a0562e315e23a25075513",
+    "size_bytes": 1475
+  },
+  {
+    "figure": "8",
+    "path": "DATA/FIG_8/MAC/R10_PHY_ARMS.csv",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R10_EVIDENCE_FREEZE/R10_EVIDENCE_FREEZE/R10_PHY_ARMS.csv",
+    "sha256": "c37993174bd5df5accee7b8a884bc2aaf23ac7452d2bff0b1a8f1372f81decbd",
+    "size_bytes": 14950
+  },
+  {
+    "figure": "8",
+    "path": "DATA/FIG_8/MAC/R10_PAIRED_DELTAS.csv",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R10_EVIDENCE_FREEZE/R10_EVIDENCE_FREEZE/R10_PAIRED_DELTAS.csv",
+    "sha256": "6d29784d44068bb6b6ce9bc1d917d396d8f03e0ac263c75afb5ab4d4d5195dfb",
+    "size_bytes": 1513
+  },
+  {
+    "figure": "8",
+    "path": "DATA/FIG_8/MAC/R10_EVIDENCE_FREEZE.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R10_EVIDENCE_FREEZE/R10_EVIDENCE_FREEZE/R10_EVIDENCE_FREEZE.json",
+    "sha256": "39242a97e5da0fd8a01bf2f214027c68a2875b7fdbcb8438233b01c63b7ba2d3",
+    "size_bytes": 3007
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_30_ROWS.csv",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUDIT/R12_QWEN_AUDIT/R12_QWEN_30_ROWS.csv",
+    "sha256": "c81cddf1d064821621ec585c683c94f60625b5fc8d9d3ddd98c5af4ac06426da",
+    "size_bytes": 8050
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_AUDIT.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUDIT/R12_QWEN_AUDIT/R12_QWEN_AUDIT.json",
+    "sha256": "67576f01d54c08d39279ea02a060e2e66a7ca66ff275df78f30b4eca5f366217",
+    "size_bytes": 15311
+  },
+  {
+    "figure": "6",
+    "path": "DATA/FIG_6/MAC/R11_COMPONENT_TABLE.csv",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R11_CONSOLIDATED/R11_CONSOLIDATED/R11_COMPONENT_TABLE.csv",
+    "sha256": "2d13fddb6833997c5e7509075e976a9e5a1362fc2cdab6f70cc3cd3c41f9bc05",
+    "size_bytes": 775
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260947.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260947.json",
+    "sha256": "b61b27fce9282b6c8d31dc7ce1e0c96c368a824dfa3f33621a7c566786b8003f",
+    "size_bytes": 4230
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260951.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260951.json",
+    "sha256": "faf91dd6751e21c07bb6718d3e42ee3ba3dae675d7be6b2835d83a8a17d6ba37",
+    "size_bytes": 4232
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260930.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260930.json",
+    "sha256": "c311d7c90ecb9e77e0acdcef6242a787a615867baf58bee0a5b72ac7f626cbfc",
+    "size_bytes": 4237
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260931.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260931.json",
+    "sha256": "3944f2abdbeac1fa15dd7dc32e5950250d69f9ec0f1218e564c69cbdf29e823d",
+    "size_bytes": 4230
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_SUMMARY.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_SUMMARY.json",
+    "sha256": "6eb719dbb017f99566e91bb03b4c636988f75de963b1f800d8eba9ccf3390e5c",
+    "size_bytes": 9186
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260950.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260950.json",
+    "sha256": "1eb67a00d51a7029dc1fd82070603bcdc93c4365b48eaeec794bf0879bbf262a",
+    "size_bytes": 4229
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260946.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260946.json",
+    "sha256": "0d171ee5074d86817bfd12192ff32d07273b8a4b5b7808ba69b015754b993be9",
+    "size_bytes": 4234
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260936.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260936.json",
+    "sha256": "e0d2f417e2f9434e023ac92892124fb23b89555a68aa01c00e23d15872c7d937",
+    "size_bytes": 4231
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260941.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260941.json",
+    "sha256": "b2646f138f0ba6dfefb240e3b07cc0e195f701150d16ec43bcf027578d386e71",
+    "size_bytes": 4233
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260957.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260957.json",
+    "sha256": "749254e7d07bd716ab631b7ca5b08215451547c443e21d646e6acc09979c6c8a",
+    "size_bytes": 4274
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260956.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260956.json",
+    "sha256": "21b3b9bc5d89a1d78b0aed8be0e44021ea3c317d36b1d339f299c2706254e786",
+    "size_bytes": 4219
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260940.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260940.json",
+    "sha256": "f1ca133bea13dd664c0e0ce44c8adc0ebc94c9b6d91fd098752a2ad9efdc2592",
+    "size_bytes": 4232
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260937.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260937.json",
+    "sha256": "924b2ca42a0785081d30342e9ff16d846cce6ed282fb25c69c65d9b17a3c0c70",
+    "size_bytes": 4233
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260934.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260934.json",
+    "sha256": "01d1301ce5ee2040f79f028905ff07fc48953f9b63547e3ee2d9250be245be02",
+    "size_bytes": 4231
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260955.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260955.json",
+    "sha256": "22587b2660d0954fcc6a98856e4a2fb411e30e61b5d0d9ff9ca5a9fed69e54f1",
+    "size_bytes": 4206
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260943.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260943.json",
+    "sha256": "6ab9f10eb918779396ef739853159f841ca443f0c1bb54a16a63034d861e8d57",
+    "size_bytes": 4233
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260938.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260938.json",
+    "sha256": "6a962fc45feb1f03dc12371b9325bbfa9817ea58e1eb7a92173bb5d48982d116",
+    "size_bytes": 4233
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260939.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260939.json",
+    "sha256": "82d275e56bbba1c36ab14bd6f602172efef268735f70437729a025a4dc7d8274",
+    "size_bytes": 4230
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260942.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260942.json",
+    "sha256": "a12b749b40d252189e6bba7821c1427e82770ed6dfa0b08259511c1c6441da8c",
+    "size_bytes": 4234
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260954.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260954.json",
+    "sha256": "d696dba6f3600f9301ef47e054833f6ce6d4dd749549f07119da70b265add357",
+    "size_bytes": 4231
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260935.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260935.json",
+    "sha256": "daa60b0073ebd1a219e78c6b2aa89013fa68c705946f3157753ce58ff886487a",
+    "size_bytes": 4228
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260958.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260958.json",
+    "sha256": "115f4542eece93309fa5e3ced83eb94f2d87f177b2367076ac3a23a67e8d4498",
+    "size_bytes": 4231
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260953.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260953.json",
+    "sha256": "02ed82ac50adbf26a47ee2edc9890d7dbfa2ac8264e065b2b20c11fcf41861b6",
+    "size_bytes": 4230
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260945.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260945.json",
+    "sha256": "a3263b3ef67604471e94038fe4bb24cd7fc9640864ac014dfeaca72b134c7922",
+    "size_bytes": 4231
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260949.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260949.json",
+    "sha256": "cbdd45d62aae1bae0b439df663746784991e2274c23fc16fc71b7c8a4e05a110",
+    "size_bytes": 4233
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260932.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260932.json",
+    "sha256": "81169c113f561a0ef22a8905f5d29e3fe7a1186e95cf268104be16033832c555",
+    "size_bytes": 4216
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260933.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260933.json",
+    "sha256": "fa5b327627cc35a4994fab3d48af967cc95f5f7e6fc906be2cd8fa66e806773c",
+    "size_bytes": 4206
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260948.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260948.json",
+    "sha256": "08afab687043df167188a07244b153de88df045b81a23baaff85912221ab8ab1",
+    "size_bytes": 4270
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260929.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260929.json",
+    "sha256": "1df6e59f4dd25e99b316eadae3aa8eeff5c2f01acbca160bb599c03f54591a3d",
+    "size_bytes": 4279
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260944.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260944.json",
+    "sha256": "c6ad218f6819cd6d85394d74f85926f023dd8c8f70c106f2c304e906d3fc3551",
+    "size_bytes": 4219
+  },
+  {
+    "figure": "9",
+    "path": "DATA/FIG_9/MAC/R12_QWEN_seed20260952.json",
+    "source_archive": "TRACES_DT_COMPLETE_MAC_RESULTS.zip",
+    "source_member": "TRACES_DT_COMPLETE_MAC_RESULTS/03_RAW_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_AUTHENTIC_RESULTS/R12_QWEN_seed20260952.json",
+    "sha256": "9becc7c8ae997d2b66093a6d9208e4a28dc3d6778393736a618b61b362122791",
+    "size_bytes": 4231
+  },
+  {
+    "figure": "3-9",
+    "path": "DATA/FIG_3-9/IEEE/FIGURES_TABLES_ACTIONS.csv",
+    "source_archive": "TRACES_DT_IEEE_REPRO_RELEASE_v1.zip",
+    "source_member": "TRACES_DT_IEEE_REPRO_RELEASE/01_AUDIT/FIGURES_TABLES_ACTIONS.csv",
+    "sha256": "dc46020a592c0bed796260c3a4830beb797f946cc4649aa00e39ab3ca94fab64",
+    "size_bytes": 713
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "agent_seed": 20260920,
+  "artifact": "R01_CELL_ENVELOPE_v1",
+  "attack_id": "A1",
+  "base_result_artifact": "phases/R01_revision_multiseed/runs/P09_B3_A1_S1_seed20260920_r0_result.json",
+  "base_result_sha256": "af007234d90301c9ae8e5bf8aff8531d86896c50d213c271559c2455430cb3ac",
+  "base_runner_path": "phases/P09_main_cps_campaign/scripts/run_p09_canonical_cell_v2.py",
+  "base_runner_sha256": "e7df6eeec35e8f20fca6cc5843c15933b155ac5cb08d0af0d89e2521f2f78dce",
+  "cell_id": "R01_B3_A1_S1_seed20260920",
+  "central_metrics": {
+    "FABR_applicable": false,
+    "FABR_denominator": 0,
+    "FABR_numerator": null,
+    "PSV_denominator": 1,
+    "PSV_numerator": 0,
+    "RSR_denominator": 1,
+    "RSR_numerator": 1,
+    "Response_Success": true,
+    "TTSR_seconds": 0.0,
+    "UER_denominator": 1,
+    "UER_numerator": 0,
+    "UPR_denominator": 1,
+    "UPR_numerator": 0
+  },
+  "fabric": false,
+  "ipfs": false,
+  "legacy_P09_denominator": false,
+  "method": "B3",
+  "phase": "R01",
+  "proposal_provenance": {
+    "mode": "REUSED_CANONICAL_MAIN",
+    "source_cell_id": "R01_B0_A1_S1_seed20260920",
+    "source_envelope": "phases/R01_revision_multiseed/runs/R01_B0_A1_S1_seed20260920_r0_envelope.json",
+    "source_envelope_sha256": "c0eafbb322c03322288eabc073a812caa7d69a9d5b5412e9e769b15961136796"
+  },
+  "retry_index": 0,
+  "scientific_failure_retained": false,
+  "scope": "main",
+  "seed": 20260920,
+  "severity": "S1",
+  "simulator_seed": 20260920,
+  "status": "VALID"
+}

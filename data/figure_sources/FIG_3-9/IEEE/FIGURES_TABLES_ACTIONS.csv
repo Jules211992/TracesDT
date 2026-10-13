@@ -1,0 +1,10 @@
+identifier,decision,source,required_caveat
+Table IV,RETAIN,R01 manuscript 900 trials,raw records not independently present
+Table VII,RETAIN,R03C and robustness checks,diagnostic unit tests not CPS experiments
+Fig 3 and Fig 4,RETAIN,historical physical outcomes,avoid confounding R10
+Fig 5,RETAIN,R04/R05 Caliper historic,raw benchmark recovery needed for redraw
+Fig 6,RETAIN,R0-R2 IPFS historic,R11 cat is not IPFS replication
+Fig 7,RETAIN,B3 A1 S1 event,n=1 56.055 seconds only
+FIG_NEW_R10,OPTIONAL SUPPLEMENT,R10 PHY,paired trajectories not PSV
+FIG_NEW_R11,OPTIONAL SUPPLEMENT,R11 component results,heterogenous timing and samples
+FIG_NEW_R12,RECOMMEND SUPPLEMENT,R12 Qwen clean,30 prompts no physical execution

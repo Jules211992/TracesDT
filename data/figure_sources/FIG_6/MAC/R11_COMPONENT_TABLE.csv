@@ -1,0 +1,8 @@
+component,n,median_ms,mean_ms,p95_ms,max_ms,scope
+Fabric CLI: authorization read,30,623.686903,628.9050333,697.492919,736.612124,Docker CLI+peer read
+Fabric CLI: decision read,30,625.563467,648.6204383333334,713.360978,911.047692,Docker CLI+peer read
+Local gateway function,10000,0.014069,0.0144751852,0.01471,0.097406,in-memory policy only
+SQLite new reservation,1000,2.3166135,2.635822292,3.698591,63.510247,isolated local WAL/FULL
+SQLite replay rejection,1000,0.7004735,0.80184002,0.961754,26.41203,isolated local WAL/FULL
+SQLite race batch wall clock,30,62.795643999999996,61.07138333333333,92.881345,96.433577,"12-worker concurrent batch, not per-request"
+IPFS existing CID cat,10,118.6304655,123.3566569,148.282439,148.282439,"Docker exec, single existing CID"

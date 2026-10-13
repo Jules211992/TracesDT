@@ -1,0 +1,97 @@
+{
+  "baseline": {
+    "caliper_exit": 0,
+    "event_id": "P14-baseline-20260904T032012122274Z",
+    "failure": null,
+    "label": "baseline",
+    "latency_ns": "630633237",
+    "ok": true,
+    "read_status": "success",
+    "write_status": "success"
+  },
+  "created_utc": "2026-09-04T03:21:14.137822+00:00",
+  "distributed_authorization": {
+    "caliper_exit": 0,
+    "distributed_authorization_positive_path": true,
+    "full_authorization_enforcement_ok": true,
+    "negative_event": "P14-AUTH-20260904T032020022699Z-NOAUTH",
+    "negative_prerequisites_ok": true,
+    "negative_statuses": [
+      {
+        "function": "RegisterTwinStateReference",
+        "status": "success"
+      },
+      {
+        "function": "RecordAgentProposal",
+        "status": "success"
+      },
+      {
+        "function": "RecordSafeguardDecision",
+        "status": "success"
+      },
+      {
+        "function": "RecordExecutionOutcome_WITHOUT_AUTHORIZATION",
+        "status": "failed"
+      }
+    ],
+    "unauthorized_execution_outcome_rejected": true,
+    "valid_event": "P14-AUTH-20260904T032020022699Z-VALID",
+    "valid_statuses": [
+      {
+        "function": "RegisterTwinStateReference",
+        "status": "success"
+      },
+      {
+        "function": "RecordAgentProposal",
+        "status": "success"
+      },
+      {
+        "function": "RecordSafeguardDecision",
+        "status": "success"
+      },
+      {
+        "function": "AuthorizeAction",
+        "status": "success"
+      }
+    ]
+  },
+  "experiment": "fabric_authorization_and_resilience",
+  "ipfs_modified": false,
+  "minus_distributed_authorization_ablation": {
+    "control_path_source": "P09_B3_REUSE",
+    "interpretation": "Removing distributed authorization does not modify the already-measured local safeguard decision path, but removes ledger-enforced authorization. The negative Fabric probe demonstrates the enforcement supplied by the full system.",
+    "mode": "ARCHITECTURAL_ABLATION",
+    "new_CPS_run": false
+  },
+  "phase": "P14",
+  "qwen_invoked": false,
+  "resilience": {
+    "one_orderer_down": {
+      "caliper_exit": 0,
+      "event_id": "P14-one_orderer_down-20260904T032034123915Z",
+      "failure": null,
+      "label": "one_orderer_down",
+      "latency_ns": "21038816903",
+      "ok": true,
+      "read_status": "success",
+      "write_status": "success"
+    },
+    "one_peer_down": {
+      "caliper_exit": 0,
+      "event_id": "P14-one_peer_down-20260904T032106058337Z",
+      "failure": null,
+      "label": "one_peer_down",
+      "latency_ns": "617793802",
+      "ok": true,
+      "read_status": "success",
+      "write_status": "success"
+    }
+  },
+  "service_continuity": {
+    "baseline": true,
+    "one_orderer_down": true,
+    "one_peer_down": true
+  },
+  "tep_invoked": false,
+  "topology_restored": true
+}

@@ -1,0 +1,278 @@
+{
+  "status": "R12_QWEN_AUTHENTIC_CAPTURE_COMPLETE",
+  "model": "qwen3:8b",
+  "count": 30,
+  "results": [
+    {
+      "seed": 20260929,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 12198.358,
+      "path": "R12_QWEN_seed20260929.json",
+      "sha256": "1df6e59f4dd25e99b316eadae3aa8eeff5c2f01acbca160bb599c03f54591a3d"
+    },
+    {
+      "seed": 20260930,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 40352.037,
+      "path": "R12_QWEN_seed20260930.json",
+      "sha256": "c311d7c90ecb9e77e0acdcef6242a787a615867baf58bee0a5b72ac7f626cbfc"
+    },
+    {
+      "seed": 20260931,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 41007.189,
+      "path": "R12_QWEN_seed20260931.json",
+      "sha256": "3944f2abdbeac1fa15dd7dc32e5950250d69f9ec0f1218e564c69cbdf29e823d"
+    },
+    {
+      "seed": 20260932,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 40465.066,
+      "path": "R12_QWEN_seed20260932.json",
+      "sha256": "81169c113f561a0ef22a8905f5d29e3fe7a1186e95cf268104be16033832c555"
+    },
+    {
+      "seed": 20260933,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 39905.942,
+      "path": "R12_QWEN_seed20260933.json",
+      "sha256": "fa5b327627cc35a4994fab3d48af967cc95f5f7e6fc906be2cd8fa66e806773c"
+    },
+    {
+      "seed": 20260934,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 40385.56,
+      "path": "R12_QWEN_seed20260934.json",
+      "sha256": "01d1301ce5ee2040f79f028905ff07fc48953f9b63547e3ee2d9250be245be02"
+    },
+    {
+      "seed": 20260935,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 40837.855,
+      "path": "R12_QWEN_seed20260935.json",
+      "sha256": "daa60b0073ebd1a219e78c6b2aa89013fa68c705946f3157753ce58ff886487a"
+    },
+    {
+      "seed": 20260936,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 40636.558,
+      "path": "R12_QWEN_seed20260936.json",
+      "sha256": "e0d2f417e2f9434e023ac92892124fb23b89555a68aa01c00e23d15872c7d937"
+    },
+    {
+      "seed": 20260937,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 42621.555,
+      "path": "R12_QWEN_seed20260937.json",
+      "sha256": "924b2ca42a0785081d30342e9ff16d846cce6ed282fb25c69c65d9b17a3c0c70"
+    },
+    {
+      "seed": 20260938,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 43156.295,
+      "path": "R12_QWEN_seed20260938.json",
+      "sha256": "6a962fc45feb1f03dc12371b9325bbfa9817ea58e1eb7a92173bb5d48982d116"
+    },
+    {
+      "seed": 20260939,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 41557.015,
+      "path": "R12_QWEN_seed20260939.json",
+      "sha256": "82d275e56bbba1c36ab14bd6f602172efef268735f70437729a025a4dc7d8274"
+    },
+    {
+      "seed": 20260940,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 42485.664,
+      "path": "R12_QWEN_seed20260940.json",
+      "sha256": "f1ca133bea13dd664c0e0ce44c8adc0ebc94c9b6d91fd098752a2ad9efdc2592"
+    },
+    {
+      "seed": 20260941,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 41378.712,
+      "path": "R12_QWEN_seed20260941.json",
+      "sha256": "b2646f138f0ba6dfefb240e3b07cc0e195f701150d16ec43bcf027578d386e71"
+    },
+    {
+      "seed": 20260942,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 41626.416,
+      "path": "R12_QWEN_seed20260942.json",
+      "sha256": "a12b749b40d252189e6bba7821c1427e82770ed6dfa0b08259511c1c6441da8c"
+    },
+    {
+      "seed": 20260943,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 45633.987,
+      "path": "R12_QWEN_seed20260943.json",
+      "sha256": "6ab9f10eb918779396ef739853159f841ca443f0c1bb54a16a63034d861e8d57"
+    },
+    {
+      "seed": 20260944,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 40982.586,
+      "path": "R12_QWEN_seed20260944.json",
+      "sha256": "c6ad218f6819cd6d85394d74f85926f023dd8c8f70c106f2c304e906d3fc3551"
+    },
+    {
+      "seed": 20260945,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 44892.517,
+      "path": "R12_QWEN_seed20260945.json",
+      "sha256": "a3263b3ef67604471e94038fe4bb24cd7fc9640864ac014dfeaca72b134c7922"
+    },
+    {
+      "seed": 20260946,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 41395.934,
+      "path": "R12_QWEN_seed20260946.json",
+      "sha256": "0d171ee5074d86817bfd12192ff32d07273b8a4b5b7808ba69b015754b993be9"
+    },
+    {
+      "seed": 20260947,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 41155.241,
+      "path": "R12_QWEN_seed20260947.json",
+      "sha256": "b61b27fce9282b6c8d31dc7ce1e0c96c368a824dfa3f33621a7c566786b8003f"
+    },
+    {
+      "seed": 20260948,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 43139.177,
+      "path": "R12_QWEN_seed20260948.json",
+      "sha256": "08afab687043df167188a07244b153de88df045b81a23baaff85912221ab8ab1"
+    },
+    {
+      "seed": 20260949,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 40460.574,
+      "path": "R12_QWEN_seed20260949.json",
+      "sha256": "cbdd45d62aae1bae0b439df663746784991e2274c23fc16fc71b7c8a4e05a110"
+    },
+    {
+      "seed": 20260950,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 40872.027,
+      "path": "R12_QWEN_seed20260950.json",
+      "sha256": "1eb67a00d51a7029dc1fd82070603bcdc93c4365b48eaeec794bf0879bbf262a"
+    },
+    {
+      "seed": 20260951,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 40911.711,
+      "path": "R12_QWEN_seed20260951.json",
+      "sha256": "faf91dd6751e21c07bb6718d3e42ee3ba3dae675d7be6b2835d83a8a17d6ba37"
+    },
+    {
+      "seed": 20260952,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 41110.401,
+      "path": "R12_QWEN_seed20260952.json",
+      "sha256": "9becc7c8ae997d2b66093a6d9208e4a28dc3d6778393736a618b61b362122791"
+    },
+    {
+      "seed": 20260953,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 44803.029,
+      "path": "R12_QWEN_seed20260953.json",
+      "sha256": "02ed82ac50adbf26a47ee2edc9890d7dbfa2ac8264e065b2b20c11fcf41861b6"
+    },
+    {
+      "seed": 20260954,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 41804.638,
+      "path": "R12_QWEN_seed20260954.json",
+      "sha256": "d696dba6f3600f9301ef47e054833f6ce6d4dd749549f07119da70b265add357"
+    },
+    {
+      "seed": 20260955,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 46875.83,
+      "path": "R12_QWEN_seed20260955.json",
+      "sha256": "22587b2660d0954fcc6a98856e4a2fb411e30e61b5d0d9ff9ca5a9fed69e54f1"
+    },
+    {
+      "seed": 20260956,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 41718.055,
+      "path": "R12_QWEN_seed20260956.json",
+      "sha256": "21b3b9bc5d89a1d78b0aed8be0e44021ea3c317d36b1d339f299c2706254e786"
+    },
+    {
+      "seed": 20260957,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 45464.991,
+      "path": "R12_QWEN_seed20260957.json",
+      "sha256": "749254e7d07bd716ab631b7ca5b08215451547c443e21d646e6acc09979c6c8a"
+    },
+    {
+      "seed": 20260958,
+      "status": "MODEL_OUTPUT_OBSERVED",
+      "action_id": "ACT03",
+      "v3_decision": "CORRECT",
+      "generation_ms": 43183.34,
+      "path": "R12_QWEN_seed20260958.json",
+      "sha256": "115f4542eece93309fa5e3ced83eb94f2d87f177b2367076ac3a23a67e8d4498"
+    }
+  ],
+  "scope": "observed clean-context inference; no attack generation, no TEP postdecision, no ledger writes"
+}

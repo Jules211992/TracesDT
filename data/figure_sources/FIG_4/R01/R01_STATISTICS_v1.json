@@ -1,0 +1,1012 @@
+{
+  "agent_latency_nonduplicated": {
+    "Oracle_proposals_ms": {
+      "IQR": 298.39319950000026,
+      "mean": 10476.850014116666,
+      "mean_ci95_bootstrap": [
+        9893.728029827918,
+        11121.592515793887
+      ],
+      "median": 9428.626176000002,
+      "n": 180,
+      "q1": 9311.3131565,
+      "q3": 9609.706356,
+      "sd": 4189.4197814264135
+    },
+    "canonical_main_proposals_ms": {
+      "IQR": 8849.682138249995,
+      "mean": 24983.437310105557,
+      "mean_ci95_bootstrap": [
+        23672.250520233192,
+        26293.243666343336
+      ],
+      "median": 26422.5779805,
+      "n": 180,
+      "q1": 24352.919712500003,
+      "q3": 33202.60185075,
+      "sd": 9189.113418979397
+    }
+  },
+  "artifact": "R01_STATISTICS_v1",
+  "design": {
+    "legacy_P09_included": false,
+    "main_method_evaluations": 720,
+    "matched_main_units": 180,
+    "oracle_evaluations": 180,
+    "total_method_evaluations": 900,
+    "unique_main_agent_inferences": 180,
+    "unique_oracle_agent_inferences": 180
+  },
+  "interpretation_constraints": {
+    "B1_B2_superiority_claim_requires_observed_difference": true,
+    "FABR_claim_requires_nonzero_denominator": true,
+    "recovery_claim_requires_observed_PSV": true,
+    "scenario_grid_rates_are_not_population_attack_probabilities": true
+  },
+  "method_summaries": {
+    "B0": {
+      "TTSR_seconds": {
+        "IQR": 0.0,
+        "mean": 0.0,
+        "mean_ci95_bootstrap": [
+          0.0,
+          0.0
+        ],
+        "median": 0.0,
+        "n": 150,
+        "q1": 0.0,
+        "q3": 0.0,
+        "sd": 0.0
+      },
+      "binary_metrics": {
+        "FABR": {
+          "ci95_wilson": [
+            null,
+            null
+          ],
+          "denominator": 0,
+          "numerator": null,
+          "rate": null
+        },
+        "PSV": {
+          "ci95_wilson": [
+            0.0030523748459926198,
+            0.03960100089958458
+          ],
+          "denominator": 180,
+          "numerator": 2,
+          "rate": 0.011111111111111112
+        },
+        "RSR": {
+          "ci95_wilson": [
+            0.7720481339817434,
+            0.8806882007371811
+          ],
+          "denominator": 180,
+          "numerator": 150,
+          "rate": 0.8333333333333334
+        },
+        "UER": {
+          "ci95_wilson": [
+            0.11931179926281875,
+            0.2279518660182565
+          ],
+          "denominator": 180,
+          "numerator": 30,
+          "rate": 0.16666666666666666
+        },
+        "UPR": {
+          "ci95_wilson": [
+            0.11931179926281875,
+            0.2279518660182565
+          ],
+          "denominator": 180,
+          "numerator": 30,
+          "rate": 0.16666666666666666
+        }
+      },
+      "n_method_evaluations": 180,
+      "physical_digital_divergence_max_abs": {
+        "IQR": 23.25760634755192,
+        "mean": 23.880093289710903,
+        "mean_ci95_bootstrap": [
+          18.627615867288025,
+          29.452998851579768
+        ],
+        "median": 7.507719248197258,
+        "n": 180,
+        "q1": 0.0,
+        "q3": 23.25760634755192,
+        "sd": 37.28818692857255
+      },
+      "safeguard_latency_ms": {
+        "IQR": null,
+        "mean": null,
+        "mean_ci95_bootstrap": [
+          null,
+          null
+        ],
+        "median": null,
+        "n": 0,
+        "q1": null,
+        "q3": null,
+        "sd": null
+      }
+    },
+    "B1": {
+      "TTSR_seconds": {
+        "IQR": 0.0,
+        "mean": 0.0,
+        "mean_ci95_bootstrap": [
+          0.0,
+          0.0
+        ],
+        "median": 0.0,
+        "n": 180,
+        "q1": 0.0,
+        "q3": 0.0,
+        "sd": 0.0
+      },
+      "binary_metrics": {
+        "FABR": {
+          "ci95_wilson": [
+            null,
+            null
+          ],
+          "denominator": 0,
+          "numerator": null,
+          "rate": null
+        },
+        "PSV": {
+          "ci95_wilson": [
+            0.0,
+            0.02089549792161305
+          ],
+          "denominator": 180,
+          "numerator": 0,
+          "rate": 0.0
+        },
+        "RSR": {
+          "ci95_wilson": [
+            0.9791045020783868,
+            1.0
+          ],
+          "denominator": 180,
+          "numerator": 180,
+          "rate": 1.0
+        },
+        "UER": {
+          "ci95_wilson": [
+            0.0,
+            0.02089549792161305
+          ],
+          "denominator": 180,
+          "numerator": 0,
+          "rate": 0.0
+        },
+        "UPR": {
+          "ci95_wilson": [
+            0.11931179926281875,
+            0.2279518660182565
+          ],
+          "denominator": 180,
+          "numerator": 30,
+          "rate": 0.16666666666666666
+        }
+      },
+      "n_method_evaluations": 180,
+      "physical_digital_divergence_max_abs": {
+        "IQR": 14.7688686181624,
+        "mean": 22.31711601373738,
+        "mean_ci95_bootstrap": [
+          17.037508122612795,
+          28.03438528903619
+        ],
+        "median": 7.507719248197258,
+        "n": 180,
+        "q1": 0.0,
+        "q3": 14.7688686181624,
+        "sd": 37.41887965509036
+      },
+      "safeguard_latency_ms": {
+        "IQR": null,
+        "mean": null,
+        "mean_ci95_bootstrap": [
+          null,
+          null
+        ],
+        "median": null,
+        "n": 0,
+        "q1": null,
+        "q3": null,
+        "sd": null
+      }
+    },
+    "B2": {
+      "TTSR_seconds": {
+        "IQR": 0.0,
+        "mean": 0.0,
+        "mean_ci95_bootstrap": [
+          0.0,
+          0.0
+        ],
+        "median": 0.0,
+        "n": 180,
+        "q1": 0.0,
+        "q3": 0.0,
+        "sd": 0.0
+      },
+      "binary_metrics": {
+        "FABR": {
+          "ci95_wilson": [
+            null,
+            null
+          ],
+          "denominator": 0,
+          "numerator": null,
+          "rate": null
+        },
+        "PSV": {
+          "ci95_wilson": [
+            0.0,
+            0.02089549792161305
+          ],
+          "denominator": 180,
+          "numerator": 0,
+          "rate": 0.0
+        },
+        "RSR": {
+          "ci95_wilson": [
+            0.9791045020783868,
+            1.0
+          ],
+          "denominator": 180,
+          "numerator": 180,
+          "rate": 1.0
+        },
+        "UER": {
+          "ci95_wilson": [
+            0.0,
+            0.02089549792161305
+          ],
+          "denominator": 180,
+          "numerator": 0,
+          "rate": 0.0
+        },
+        "UPR": {
+          "ci95_wilson": [
+            0.11931179926281875,
+            0.2279518660182565
+          ],
+          "denominator": 180,
+          "numerator": 30,
+          "rate": 0.16666666666666666
+        }
+      },
+      "n_method_evaluations": 180,
+      "physical_digital_divergence_max_abs": {
+        "IQR": 14.7688686181624,
+        "mean": 22.31711601373738,
+        "mean_ci95_bootstrap": [
+          17.067243678477634,
+          27.96420438139036
+        ],
+        "median": 7.507719248197258,
+        "n": 180,
+        "q1": 0.0,
+        "q3": 14.7688686181624,
+        "sd": 37.41887965509036
+      },
+      "safeguard_latency_ms": {
+        "IQR": null,
+        "mean": null,
+        "mean_ci95_bootstrap": [
+          null,
+          null
+        ],
+        "median": null,
+        "n": 0,
+        "q1": null,
+        "q3": null,
+        "sd": null
+      }
+    },
+    "B3": {
+      "TTSR_seconds": {
+        "IQR": 0.0,
+        "mean": 0.0,
+        "mean_ci95_bootstrap": [
+          0.0,
+          0.0
+        ],
+        "median": 0.0,
+        "n": 180,
+        "q1": 0.0,
+        "q3": 0.0,
+        "sd": 0.0
+      },
+      "binary_metrics": {
+        "FABR": {
+          "ci95_wilson": [
+            null,
+            null
+          ],
+          "denominator": 0,
+          "numerator": null,
+          "rate": null
+        },
+        "PSV": {
+          "ci95_wilson": [
+            0.0,
+            0.02089549792161305
+          ],
+          "denominator": 180,
+          "numerator": 0,
+          "rate": 0.0
+        },
+        "RSR": {
+          "ci95_wilson": [
+            0.9791045020783868,
+            1.0
+          ],
+          "denominator": 180,
+          "numerator": 180,
+          "rate": 1.0
+        },
+        "UER": {
+          "ci95_wilson": [
+            0.0,
+            0.02089549792161305
+          ],
+          "denominator": 180,
+          "numerator": 0,
+          "rate": 0.0
+        },
+        "UPR": {
+          "ci95_wilson": [
+            0.11931179926281875,
+            0.2279518660182565
+          ],
+          "denominator": 180,
+          "numerator": 30,
+          "rate": 0.16666666666666666
+        }
+      },
+      "n_method_evaluations": 180,
+      "physical_digital_divergence_max_abs": {
+        "IQR": 14.7688686181624,
+        "mean": 22.31711601373738,
+        "mean_ci95_bootstrap": [
+          17.07387033650447,
+          28.087607550150114
+        ],
+        "median": 7.507719248197258,
+        "n": 180,
+        "q1": 0.0,
+        "q3": 14.7688686181624,
+        "sd": 37.41887965509036
+      },
+      "safeguard_latency_ms": {
+        "IQR": 0.004063000000000011,
+        "mean": 0.09101338333333334,
+        "mean_ci95_bootstrap": [
+          0.0871602325,
+          0.09648017666666668
+        ],
+        "median": 0.0846305,
+        "n": 180,
+        "q1": 0.08318524999999999,
+        "q3": 0.08724825,
+        "sd": 0.033025138274976
+      }
+    },
+    "Oracle": {
+      "TTSR_seconds": {
+        "IQR": 0.0,
+        "mean": 0.0,
+        "mean_ci95_bootstrap": [
+          0.0,
+          0.0
+        ],
+        "median": 0.0,
+        "n": 180,
+        "q1": 0.0,
+        "q3": 0.0,
+        "sd": 0.0
+      },
+      "binary_metrics": {
+        "FABR": {
+          "ci95_wilson": [
+            null,
+            null
+          ],
+          "denominator": 0,
+          "numerator": null,
+          "rate": null
+        },
+        "PSV": {
+          "ci95_wilson": [
+            0.0,
+            0.02089549792161305
+          ],
+          "denominator": 180,
+          "numerator": 0,
+          "rate": 0.0
+        },
+        "RSR": {
+          "ci95_wilson": [
+            0.9791045020783868,
+            1.0
+          ],
+          "denominator": 180,
+          "numerator": 180,
+          "rate": 1.0
+        },
+        "UER": {
+          "ci95_wilson": [
+            0.0,
+            0.02089549792161305
+          ],
+          "denominator": 180,
+          "numerator": 0,
+          "rate": 0.0
+        },
+        "UPR": {
+          "ci95_wilson": [
+            0.0,
+            0.02089549792161305
+          ],
+          "denominator": 180,
+          "numerator": 0,
+          "rate": 0.0
+        }
+      },
+      "n_method_evaluations": 180,
+      "physical_digital_divergence_max_abs": {
+        "IQR": 14.7688686181624,
+        "mean": 22.31711601373738,
+        "mean_ci95_bootstrap": [
+          17.14036128256953,
+          27.966645271214105
+        ],
+        "median": 7.507719248197258,
+        "n": 180,
+        "q1": 0.0,
+        "q3": 14.7688686181624,
+        "sd": 37.41887965509036
+      },
+      "safeguard_latency_ms": {
+        "IQR": null,
+        "mean": null,
+        "mean_ci95_bootstrap": [
+          null,
+          null
+        ],
+        "median": null,
+        "n": 0,
+        "q1": null,
+        "q3": null,
+        "sd": null
+      }
+    }
+  },
+  "paired_TTSR_sign_flip": {
+    "B3_vs_B0": {
+      "mean_difference": 0.0,
+      "n_pairs": 150,
+      "p_value": 1.0
+    },
+    "B3_vs_B1": {
+      "mean_difference": 0.0,
+      "n_pairs": 180,
+      "p_value": 1.0
+    },
+    "B3_vs_B2": {
+      "mean_difference": 0.0,
+      "n_pairs": 180,
+      "p_value": 1.0
+    }
+  },
+  "paired_exact_McNemar": {
+    "FABR": {
+      "B3_vs_B0": {
+        "B3_0_comparator_1": 0,
+        "B3_1_comparator_0": 0,
+        "Holm_adjusted_p": 1.0,
+        "discordant_pairs": 0,
+        "exact_two_sided_p": 1.0,
+        "matched_odds_ratio_0.5_correction": 1.0,
+        "n_pairs": 0,
+        "paired_risk_difference_B3_minus_comparator": null
+      },
+      "B3_vs_B1": {
+        "B3_0_comparator_1": 0,
+        "B3_1_comparator_0": 0,
+        "Holm_adjusted_p": 1.0,
+        "discordant_pairs": 0,
+        "exact_two_sided_p": 1.0,
+        "matched_odds_ratio_0.5_correction": 1.0,
+        "n_pairs": 0,
+        "paired_risk_difference_B3_minus_comparator": null
+      },
+      "B3_vs_B2": {
+        "B3_0_comparator_1": 0,
+        "B3_1_comparator_0": 0,
+        "Holm_adjusted_p": 1.0,
+        "discordant_pairs": 0,
+        "exact_two_sided_p": 1.0,
+        "matched_odds_ratio_0.5_correction": 1.0,
+        "n_pairs": 0,
+        "paired_risk_difference_B3_minus_comparator": null
+      }
+    },
+    "PSV": {
+      "B3_vs_B0": {
+        "B3_0_comparator_1": 2,
+        "B3_1_comparator_0": 0,
+        "Holm_adjusted_p": 1.0,
+        "discordant_pairs": 2,
+        "exact_two_sided_p": 0.5,
+        "matched_odds_ratio_0.5_correction": 0.2,
+        "n_pairs": 180,
+        "paired_risk_difference_B3_minus_comparator": -0.011111111111111112
+      },
+      "B3_vs_B1": {
+        "B3_0_comparator_1": 0,
+        "B3_1_comparator_0": 0,
+        "Holm_adjusted_p": 1.0,
+        "discordant_pairs": 0,
+        "exact_two_sided_p": 1.0,
+        "matched_odds_ratio_0.5_correction": 1.0,
+        "n_pairs": 180,
+        "paired_risk_difference_B3_minus_comparator": 0
+      },
+      "B3_vs_B2": {
+        "B3_0_comparator_1": 0,
+        "B3_1_comparator_0": 0,
+        "Holm_adjusted_p": 1.0,
+        "discordant_pairs": 0,
+        "exact_two_sided_p": 1.0,
+        "matched_odds_ratio_0.5_correction": 1.0,
+        "n_pairs": 180,
+        "paired_risk_difference_B3_minus_comparator": 0
+      }
+    },
+    "RSR": {
+      "B3_vs_B0": {
+        "B3_0_comparator_1": 0,
+        "B3_1_comparator_0": 30,
+        "Holm_adjusted_p": 5.587935447692871e-09,
+        "discordant_pairs": 30,
+        "exact_two_sided_p": 1.862645149230957e-09,
+        "matched_odds_ratio_0.5_correction": 61.0,
+        "n_pairs": 180,
+        "paired_risk_difference_B3_minus_comparator": 0.16666666666666663
+      },
+      "B3_vs_B1": {
+        "B3_0_comparator_1": 0,
+        "B3_1_comparator_0": 0,
+        "Holm_adjusted_p": 1.0,
+        "discordant_pairs": 0,
+        "exact_two_sided_p": 1.0,
+        "matched_odds_ratio_0.5_correction": 1.0,
+        "n_pairs": 180,
+        "paired_risk_difference_B3_minus_comparator": 0
+      },
+      "B3_vs_B2": {
+        "B3_0_comparator_1": 0,
+        "B3_1_comparator_0": 0,
+        "Holm_adjusted_p": 1.0,
+        "discordant_pairs": 0,
+        "exact_two_sided_p": 1.0,
+        "matched_odds_ratio_0.5_correction": 1.0,
+        "n_pairs": 180,
+        "paired_risk_difference_B3_minus_comparator": 0
+      }
+    },
+    "UER": {
+      "B3_vs_B0": {
+        "B3_0_comparator_1": 30,
+        "B3_1_comparator_0": 0,
+        "Holm_adjusted_p": 5.587935447692871e-09,
+        "discordant_pairs": 30,
+        "exact_two_sided_p": 1.862645149230957e-09,
+        "matched_odds_ratio_0.5_correction": 0.01639344262295082,
+        "n_pairs": 180,
+        "paired_risk_difference_B3_minus_comparator": -0.16666666666666666
+      },
+      "B3_vs_B1": {
+        "B3_0_comparator_1": 0,
+        "B3_1_comparator_0": 0,
+        "Holm_adjusted_p": 1.0,
+        "discordant_pairs": 0,
+        "exact_two_sided_p": 1.0,
+        "matched_odds_ratio_0.5_correction": 1.0,
+        "n_pairs": 180,
+        "paired_risk_difference_B3_minus_comparator": 0
+      },
+      "B3_vs_B2": {
+        "B3_0_comparator_1": 0,
+        "B3_1_comparator_0": 0,
+        "Holm_adjusted_p": 1.0,
+        "discordant_pairs": 0,
+        "exact_two_sided_p": 1.0,
+        "matched_odds_ratio_0.5_correction": 1.0,
+        "n_pairs": 180,
+        "paired_risk_difference_B3_minus_comparator": 0
+      }
+    },
+    "UPR": {
+      "B3_vs_B0": {
+        "B3_0_comparator_1": 0,
+        "B3_1_comparator_0": 0,
+        "Holm_adjusted_p": 1.0,
+        "discordant_pairs": 0,
+        "exact_two_sided_p": 1.0,
+        "matched_odds_ratio_0.5_correction": 1.0,
+        "n_pairs": 180,
+        "paired_risk_difference_B3_minus_comparator": 0.0
+      },
+      "B3_vs_B1": {
+        "B3_0_comparator_1": 0,
+        "B3_1_comparator_0": 0,
+        "Holm_adjusted_p": 1.0,
+        "discordant_pairs": 0,
+        "exact_two_sided_p": 1.0,
+        "matched_odds_ratio_0.5_correction": 1.0,
+        "n_pairs": 180,
+        "paired_risk_difference_B3_minus_comparator": 0.0
+      },
+      "B3_vs_B2": {
+        "B3_0_comparator_1": 0,
+        "B3_1_comparator_0": 0,
+        "Holm_adjusted_p": 1.0,
+        "discordant_pairs": 0,
+        "exact_two_sided_p": 1.0,
+        "matched_odds_ratio_0.5_correction": 1.0,
+        "n_pairs": 180,
+        "paired_risk_difference_B3_minus_comparator": 0.0
+      }
+    }
+  },
+  "phase": "R01",
+  "severity_summaries": {
+    "S1": {
+      "B0": {
+        "FABR": {
+          "denominator": 0,
+          "numerator": 0
+        },
+        "PSV": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "RSR": {
+          "denominator": 60,
+          "numerator": 60
+        },
+        "UER": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "UPR": {
+          "denominator": 60,
+          "numerator": 0
+        }
+      },
+      "B1": {
+        "FABR": {
+          "denominator": 0,
+          "numerator": 0
+        },
+        "PSV": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "RSR": {
+          "denominator": 60,
+          "numerator": 60
+        },
+        "UER": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "UPR": {
+          "denominator": 60,
+          "numerator": 0
+        }
+      },
+      "B2": {
+        "FABR": {
+          "denominator": 0,
+          "numerator": 0
+        },
+        "PSV": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "RSR": {
+          "denominator": 60,
+          "numerator": 60
+        },
+        "UER": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "UPR": {
+          "denominator": 60,
+          "numerator": 0
+        }
+      },
+      "B3": {
+        "FABR": {
+          "denominator": 0,
+          "numerator": 0
+        },
+        "PSV": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "RSR": {
+          "denominator": 60,
+          "numerator": 60
+        },
+        "UER": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "UPR": {
+          "denominator": 60,
+          "numerator": 0
+        }
+      },
+      "Oracle": {
+        "FABR": {
+          "denominator": 0,
+          "numerator": 0
+        },
+        "PSV": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "RSR": {
+          "denominator": 60,
+          "numerator": 60
+        },
+        "UER": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "UPR": {
+          "denominator": 60,
+          "numerator": 0
+        }
+      }
+    },
+    "S2": {
+      "B0": {
+        "FABR": {
+          "denominator": 0,
+          "numerator": 0
+        },
+        "PSV": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "RSR": {
+          "denominator": 60,
+          "numerator": 60
+        },
+        "UER": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "UPR": {
+          "denominator": 60,
+          "numerator": 0
+        }
+      },
+      "B1": {
+        "FABR": {
+          "denominator": 0,
+          "numerator": 0
+        },
+        "PSV": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "RSR": {
+          "denominator": 60,
+          "numerator": 60
+        },
+        "UER": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "UPR": {
+          "denominator": 60,
+          "numerator": 0
+        }
+      },
+      "B2": {
+        "FABR": {
+          "denominator": 0,
+          "numerator": 0
+        },
+        "PSV": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "RSR": {
+          "denominator": 60,
+          "numerator": 60
+        },
+        "UER": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "UPR": {
+          "denominator": 60,
+          "numerator": 0
+        }
+      },
+      "B3": {
+        "FABR": {
+          "denominator": 0,
+          "numerator": 0
+        },
+        "PSV": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "RSR": {
+          "denominator": 60,
+          "numerator": 60
+        },
+        "UER": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "UPR": {
+          "denominator": 60,
+          "numerator": 0
+        }
+      },
+      "Oracle": {
+        "FABR": {
+          "denominator": 0,
+          "numerator": 0
+        },
+        "PSV": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "RSR": {
+          "denominator": 60,
+          "numerator": 60
+        },
+        "UER": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "UPR": {
+          "denominator": 60,
+          "numerator": 0
+        }
+      }
+    },
+    "S3": {
+      "B0": {
+        "FABR": {
+          "denominator": 0,
+          "numerator": 0
+        },
+        "PSV": {
+          "denominator": 60,
+          "numerator": 2
+        },
+        "RSR": {
+          "denominator": 60,
+          "numerator": 30
+        },
+        "UER": {
+          "denominator": 60,
+          "numerator": 30
+        },
+        "UPR": {
+          "denominator": 60,
+          "numerator": 30
+        }
+      },
+      "B1": {
+        "FABR": {
+          "denominator": 0,
+          "numerator": 0
+        },
+        "PSV": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "RSR": {
+          "denominator": 60,
+          "numerator": 60
+        },
+        "UER": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "UPR": {
+          "denominator": 60,
+          "numerator": 30
+        }
+      },
+      "B2": {
+        "FABR": {
+          "denominator": 0,
+          "numerator": 0
+        },
+        "PSV": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "RSR": {
+          "denominator": 60,
+          "numerator": 60
+        },
+        "UER": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "UPR": {
+          "denominator": 60,
+          "numerator": 30
+        }
+      },
+      "B3": {
+        "FABR": {
+          "denominator": 0,
+          "numerator": 0
+        },
+        "PSV": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "RSR": {
+          "denominator": 60,
+          "numerator": 60
+        },
+        "UER": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "UPR": {
+          "denominator": 60,
+          "numerator": 30
+        }
+      },
+      "Oracle": {
+        "FABR": {
+          "denominator": 0,
+          "numerator": 0
+        },
+        "PSV": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "RSR": {
+          "denominator": 60,
+          "numerator": 60
+        },
+        "UER": {
+          "denominator": 60,
+          "numerator": 0
+        },
+        "UPR": {
+          "denominator": 60,
+          "numerator": 0
+        }
+      }
+    }
+  },
+  "status": "COMPLETE"
+}

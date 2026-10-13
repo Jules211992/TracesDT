@@ -1,0 +1,117 @@
+{
+  "status": "R10_EVIDENCE_FREEZE_PASS",
+  "scope": "offline files only; does not confirm independent physical safety or Qwen actions",
+  "errors": [],
+  "seeds_verified": 30,
+  "physical_arms_per_seed": 5,
+  "n_physical_trajectories": 150,
+  "equalities": {
+    "direct_vs_clean_vs_forged": 30,
+    "control_vs_honest": 30
+  },
+  "shutdown_counts": {
+    "CONTROL": 0,
+    "DIRECT_ACT06": 0,
+    "V3_CLEAN": 0,
+    "V3_REPLAY_HONEST": 0,
+    "V3_REPLAY_FORGED": 0
+  },
+  "max_abs_delta_xmeas7_direct_vs_control": {
+    "n": 30,
+    "mean": 0.0867178659008611,
+    "median": 0.08698797751412712,
+    "min": 0.07523006429528323,
+    "max": 0.09269999191428724
+  },
+  "max_abs_delta_xmeas12_direct_vs_control": {
+    "n": 30,
+    "mean": 0.6739753516834388,
+    "median": 0.6741496038535253,
+    "min": 0.6714566360876901,
+    "max": 0.6756378764770687
+  },
+  "R10_S2": {
+    "seeds": 30,
+    "cases": 270,
+    "decision_changes": 120,
+    "eligibility_changes": 240
+  },
+  "R10_S3": {
+    "seeds": 30,
+    "totals": {
+      "cases": 270,
+      "v3_correct": 150,
+      "v3_escalate": 120,
+      "provenance_admit": 30,
+      "forged_fresh_v3_correct": 120,
+      "forged_fresh_provenance_denied": 120,
+      "honest_age_provenance_denied": 120,
+      "clean_provenance_admit": 30
+    }
+  },
+  "R10_S4": {
+    "seeds": 30,
+    "cases": 990,
+    "aggregate": {
+      "SINGLE_7": {
+        "HONEST_AGE": {
+          "cases": 120,
+          "decision_changes": 120,
+          "eligibility_changes": 0
+        },
+        "FORGED_FRESH": {
+          "cases": 120,
+          "decision_changes": 0,
+          "eligibility_changes": 0
+        }
+      },
+      "SINGLE_12": {
+        "HONEST_AGE": {
+          "cases": 120,
+          "decision_changes": 120,
+          "eligibility_changes": 120
+        },
+        "FORGED_FRESH": {
+          "cases": 120,
+          "decision_changes": 0,
+          "eligibility_changes": 120
+        }
+      },
+      "JOINT_7_12": {
+        "HONEST_AGE": {
+          "cases": 120,
+          "decision_changes": 120,
+          "eligibility_changes": 120
+        },
+        "FORGED_FRESH": {
+          "cases": 120,
+          "decision_changes": 0,
+          "eligibility_changes": 120
+        }
+      },
+      "JOINT_5_REF": {
+        "HONEST_AGE": {
+          "cases": 120,
+          "decision_changes": 120,
+          "eligibility_changes": 120
+        },
+        "FORGED_FRESH": {
+          "cases": 120,
+          "decision_changes": 0,
+          "eligibility_changes": 120
+        }
+      }
+    }
+  },
+  "PSV": null,
+  "UER": null,
+  "qwen_independent_evaluation": false,
+  "key_limitations": [
+    "30 related seeded scenarios, not 150 independent outcomes",
+    "ACTION ACT10 constructed, not spontaneous Qwen",
+    "ACT06 arms identical; no demonstrated incremental physical effect of v3",
+    "Physical guardrail thresholds unvalidated: PSV and UER undefined",
+    "S3 provenance defence is counterfactual only",
+    "No Fabric/IPFS writes in R10 physical comparison"
+  ]
+}

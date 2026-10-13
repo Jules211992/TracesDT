@@ -1,0 +1,16 @@
+{
+  "t6_epoch_ns": "1788489640544000000",
+  "t7_epoch_ns": "1788489640655000000",
+  "fabric_commit_latency_ns": "110974502",
+  "statuses": [
+    "failed"
+  ],
+  "contract_function": "AnchorEvidenceCID",
+  "contract_arguments": [
+    "P13-E2E-20260904T023946Z",
+    "P13-EVIDENCE-20260904T023946Z",
+    "QmQxUbpfCVzd172SsmEtFnQwXgAx8mjdH4msaRndFo3zN5",
+    "2012df8467eff26dd1356c1db72386d7832ce280c075320caf518f7b1bb4e90f",
+    "2026-09-04T02:40:39.155052+00:00"
+  ]
+}
